@@ -1,1 +1,14 @@
-body
+body {
+  background-color: aqua;
+}
+
+.name-wrapper {
+  display: flex;
+  background-color: rgba(245, 245, 245, 0.85);
+}
+
+.avatar {
+  width: 150px;
+  left: 150px;
+  align-content: center;
+}
